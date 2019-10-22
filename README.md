@@ -23,8 +23,8 @@ Getting Started
 	It will also update the product sales in the department table.
  
 2.	bamazonManager.js
-	Starts with a menu:
-	View Products for Sale
+Starts with a menu:
+View Products for Sale
 	View Low Inventory
 	Add to Inventory
 	Add New Product
