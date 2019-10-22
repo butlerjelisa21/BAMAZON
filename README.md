@@ -1,4 +1,4 @@
-BAMAZON
+# BAMAZON
 
 Created during Week 12 of SMU Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
 
@@ -11,7 +11,7 @@ Getting Started
 	Exective - 'npm run exective'
 •	Run 'ctrl + c' to exit each mode
 
-What Each JavaScript Does
+# What Each JavaScript Does
 1.	bamazonCustomers.js
 	Prints the products in the store.
 	Prompts customer which product they would like to purchase by ID number.
@@ -34,20 +34,20 @@ What Each JavaScript Does
 	If the manager selects Add New Product, it allows the manager to add a new product to the store.
 	If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
-Technologies used
+# Technologies used
 •	Node.js
 •	Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 •	MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
-Prerequisites
+# Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Create a MYSQL database called 'Bamazon', reference schema.sql
 
-Built With
+# Built With
 •	Sublime Text - Text Editor
 •	MySQLWorkbench
 •	Terminal/Gitbash
 
-Authors
+# Authors
 •	Jelisa Butler - JS/MySQL/Node.js – Jelisa Butler 
 
