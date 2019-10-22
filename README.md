@@ -3,16 +3,17 @@
 Created during Week 12 of SMU Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 Getting Started
-•	Clone repo.
-•	Run command in Terminal or Gitbash 'npm install'
-•	Run command depending which mode you would like to be on:
+
+1. Clone repo.
+2. Run command in Terminal or Gitbash 'npm install'
+3. Run command depending which mode you would like to be on:
 	Customer - 'npm run customer'
 	Manager - 'npm run manager'
 	Exective - 'npm run exective'
 •	Run 'ctrl + c' to exit each mode
 
 # What Each JavaScript Does
-1.	bamazonCustomers.js
+1.bamazonCustomers.js
 	Prints the products in the store.
 	Prompts customer which product they would like to purchase by ID number.
 	Asks for the quantity.
